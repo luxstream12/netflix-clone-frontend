@@ -1,4 +1,5 @@
 {
+ import React, { useState, useEffect } from 'react';
   "name": "netflix-clone-frontend",
   "version": "0.1.0",
   "private": true,
